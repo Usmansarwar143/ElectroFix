@@ -1,6 +1,4 @@
 # ElectroFix ⚡📍✅
-
-![ElectroFix Banner](electrofix/app/src/main/res/drawable/logo.png) 
 > **Fix Your Liiife.**
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
@@ -31,11 +29,10 @@ Our identity is built on three pillars, reflected in our logo:
 
 ## 📱 Screenshots
 
-| Splash Screen | Home Map | Technician Profile | Booking |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/splash.jpeg" width="200"/> | <img src="docs/screenshots/home.png" width="200"/> | <img src="docs/screenshots/profile.png" width="200"/> | <img src="docs/screenshots/booking.png" width="200"/> |
+| Splash Screen | Auth | Login | Customer Home | Technician Home | Booking | Earning | Chatbot | Messages | Profile |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="docs/splash.jpeg" width="200"/> | <img src="docs/auth.jpeg" width="200"/> | <img src="docs/login.jpeg" width="200"/> | <img src="docs/customer_home.jpeg" width="200"/> | <img src="docs/tech_home.jpeg" width="200"/> | <img src="docs/booking.jpeg" width="200"/> | <img src="docs/tech_earning.jpeg" width="200"/> | <img src="docs/chatbot.jpeg" width="200"/> | <img src="docs/messages.jpeg" width="200"/> |  | <img src="docs/profile.jpeg" width="200"/>
 
-*(Note: Add your screenshot images to a `docs/screenshots` folder in your repo)*
 
 ## 🛠️ Tech Stack
 
