@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175792926367",
+    "project_id": "electrofix-4c437",
+    "storage_bucket": "electrofix-4c437.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175792926367:android:6ed2ae2f013bffd236fcaa",
+        "android_client_info": {
+          "package_name": "com.example.electrofix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8E0NimoNiqb1rDSE9cZMXMxNoA_G71Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
