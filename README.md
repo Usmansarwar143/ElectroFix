@@ -31,7 +31,7 @@ Our identity is built on three pillars, reflected in our logo:
 
 | Splash Screen | Auth | Login | Customer Home | Technician Home | Booking | Earning | Chatbot | Messages | Profile |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/splash.jpeg" width="200"/> | <img src="docs/auth.jpeg" width="200"/> | <img src="docs/login.jpeg" width="200"/> | <img src="docs/customer_home.jpeg" width="200"/> | <img src="docs/tech_home.jpeg" width="200"/> | <img src="docs/booking.jpeg" width="200"/> | <img src="docs/tech_earning.jpeg" width="200"/> | <img src="docs/chatbot.jpeg" width="200"/> | <img src="docs/messages.jpeg" width="200"/> |  | <img src="docs/profile.jpeg" width="200"/>
+| <img src="docs/splash.jpeg" width="200"/> | <img src="docs/auth.jpeg" width="200"/> | <img src="docs/login.jpeg" width="200"/> | <img src="docs/customer_home.jpeg" width="200"/> | <img src="docs/tech_home.jpeg" width="200"/> | <img src="docs/booking.jpeg" width="200"/> | <img src="docs/tech_earning.jpeg" width="200"/> | <img src="docs/chatbot.jpeg" width="200"/> | <img src="docs/messages.jpeg" width="200"/> | <img src="docs/profile.jpeg" width="200"/> |
 
 
 ## 🛠️ Tech Stack
@@ -62,7 +62,7 @@ Follow these steps to get a local copy up and running.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/ElectroFix.git](https://github.com/your-username/ElectroFix.git)
+    git clone [https://github.com/Usmansarwar143/ElectroFix.git](https://github.com/your-username/ElectroFix.git)
     ```
 2.  **Open in Android Studio**
     * File > Open > Select the `ElectroFix` folder.
@@ -102,9 +102,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-**Founder/Developer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]
+**Founder/Developer:** [Muhammad Usman Sarwar & Abdul Moiz Barlas]  
+**Email:** [muhammadusman.becsef22@iba-suk.edu.pk]  
+**LinkedIn:** [https://www.linkedin.com/in/muhammad-usman-018535253]
 
 ---
 *Built with ❤️ to Fix Your Liiife.*
