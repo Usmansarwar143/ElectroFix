@@ -1,6 +1,6 @@
 # ElectroFix ⚡📍✅
 
-![ElectroFix Banner](docs/images/banner_placeholder.png) 
+![ElectroFix Banner](electrofix/app/src/main/res/drawable/logo.png) 
 > **Fix Your Liiife.**
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
@@ -33,7 +33,7 @@ Our identity is built on three pillars, reflected in our logo:
 
 | Splash Screen | Home Map | Technician Profile | Booking |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/splash.png" width="200"/> | <img src="docs/screenshots/home.png" width="200"/> | <img src="docs/screenshots/profile.png" width="200"/> | <img src="docs/screenshots/booking.png" width="200"/> |
+| <img src="docs/splash.png" width="200"/> | <img src="docs/screenshots/home.png" width="200"/> | <img src="docs/screenshots/profile.png" width="200"/> | <img src="docs/screenshots/booking.png" width="200"/> |
 
 *(Note: Add your screenshot images to a `docs/screenshots` folder in your repo)*
 
